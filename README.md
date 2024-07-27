@@ -1,4 +1,5 @@
 # 🎵 Audio Denoising using FIR Filtering and Post-Processing 🎛️
+![Project Sticker](https://img.shields.io/badge/Matlab-Project-blue?style=flat-square&logo=matlab)  ![GitHub Stars](https://img.shields.io/github/stars/yourusername/Matlab-CGPA-Calculator?style=social)
 
 ## Introduction 📜
 This project focuses on the application of FIR (Finite Impulse Response) filtering for audio denoising, followed by post-processing techniques. The primary objective is to improve the signal-to-noise ratio (SNR) and reduce mean square error (MSE) in the audio signal.
