@@ -32,3 +32,5 @@ Audio denoising has broad applications in real-life scenarios, including:
 
 ## Conclusion 🏁
 The project demonstrates the effectiveness of FIR filtering in reducing noise from audio signals. The analysis of performance metrics and the application of post-processing techniques contribute to a comprehensive approach for audio enhancement. The project highlights the significance of DSP in improving the quality of audio signals, making them more suitable for various applications.
+
+![Thank You](https://img.shields.io/badge/Thank%20You!-blue?style=flat-square&logo=smile)
