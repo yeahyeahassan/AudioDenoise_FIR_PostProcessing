@@ -3,7 +3,10 @@
 
 ## Introduction 📜
 This project focuses on the application of FIR (Finite Impulse Response) filtering for audio denoising, followed by post-processing techniques. The primary objective is to improve the signal-to-noise ratio (SNR) and reduce mean square error (MSE) in the audio signal.
+---
+![Picture1](https://github.com/user-attachments/assets/78718753-794c-4efc-8fb6-c69c5df8a123)
 
+---
 ## Objectives 🎯
 1. **Design a FIR Filter**: Develop a finite impulse response filter based on specified parameters, including filter order, stopband attenuation, and transition bandwidth.
 2. **Frequency Response Analysis**: Visualize and analyze the frequency response, magnitude, and phase of the designed FIR filter.
